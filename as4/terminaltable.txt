@@ -1,0 +1,11 @@
+1	void	N
+2	main	N
+3	int	N
+4	printf	N
+5	scanf	N
+6	,	Y
+7	;	Y
+8	(	Y
+9	)	Y
+10	"	Y
+11	=	Y 

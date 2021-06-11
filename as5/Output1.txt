@@ -1,0 +1,81 @@
+[it@localhost ~]$ gcc sp-assign-5.c
+[it@localhost ~]$ ./a.out
+
+Please Enter String ending with '$':	(a,a)$
+
+S function is called...
+Backtrack...
+Backtrack...
+Match found...
+T function is called...
+S function is called...
+Match found...
+U function is called...
+Match found...
+S function is called...
+Match found...
+U function is called...
+Backtrack...
+Match found...
+Match found...
+Successful Parsing of string: (a,a)$
+
+
+[it@localhost ~]$ ./a.out
+
+Please Enter String ending with '$':	dfgy$
+
+S function is called...
+Backtrack...
+Backtrack...
+Backtrack...
+Unsuccessful Parsing of string: dfgy$
+[it@localhost ~]$ 
+
+
+[it@localhost ~]$ ./a.out
+
+Please Enter String ending with '$':	a$
+
+S function is called...
+Match found...
+Successful Parsing of string: a$
+
+
+[it@localhost ~]$ ./a.out
+
+Please Enter String ending with '$':	t$
+
+S function is called...
+Backtrack...
+Match found...
+Successful Parsing of string: t$
+
+[it@localhost ~]$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

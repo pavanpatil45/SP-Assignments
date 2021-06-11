@@ -1,0 +1,25 @@
+[it@localhost ~]$ gcc sp-assign-2.c
+[it@localhost ~]$ ./a.out
+[it@localhost ~]$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

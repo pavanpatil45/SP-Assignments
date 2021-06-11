@@ -1,0 +1,17 @@
+--------------------output-------------------------
+L1:[fedora@localhost ~]$ lex sw.l
+[fedora@localhost ~]$ yacc -d sw.y
+[fedora@localhost ~]$ cc lex.yy.c y.tab.c
+[fedora@localhost ~]$ ./a.out
+
+Enter the expression: switch (b+1) { case 1:x=y+z ; break; default: p=q+r;}
+
+t0 = b + 1
+if 1 is not equal to t0 goto L0
+t1 = y + z
+x = t1
+goto L1
+L0:
+t2 = q + r
+p = t2
+L1:

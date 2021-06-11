@@ -1,0 +1,2 @@
+1		5=        		   Decimal		     FIXED		2
+2		6=        		   Decimal		     FIXED		2

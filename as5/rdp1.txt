@@ -1,0 +1,104 @@
+
+//Implementation of Recursive Decent Parser(RDP) 
+
+/*
+S->a/t/(T)
+T->SU
+U->,SU/0
+*/
+
+
+#include<stdio.h>
+#include<string.h>
+
+void S();
+void T();
+void U();
+
+char str[50],ch;
+int i=0,bflag=0;
+
+void ifsymbolfound(char a)
+{
+	if(a==ch)
+	{
+		printf("\nMatch found...");
+		ch=str[i];
+		i++;
+	}
+	else
+	{
+		printf("\nBacktrack...");
+	}
+}//for matching 
+
+void S()
+{
+	printf("\nS function is called...");
+	if(ch=='a')
+	{
+		ifsymbolfound('a');
+		S();
+	}
+	else
+		printf("\nBacktrack...");
+
+	if(ch=='t')
+	{
+		ifsymbolfound('t');
+		S();
+	}
+	else
+		printf("\nBacktrack...");
+	
+	if(ch=='(')
+	{
+		ifsymbolfound('(');
+		T();
+		ifsymbolfound(')');
+	}
+	else
+		printf("\nBacktrack...");
+}//starting symbol
+
+
+void T()
+{
+	printf("\nT function is called...");
+		S();
+		U();
+}//Non terminal 'T'
+
+void U()
+{
+	printf("\nU function is called...");
+	if(ch==',')
+	{
+		ifsymbolfound(',');
+		S();
+		U();
+	}	
+	else
+		printf("\nBacktrack...");
+	
+	
+	if(ch=='0')
+	{
+		//null symbol
+	}
+}//Non Terminal 'U'
+
+int main()
+{
+	int a;
+	printf("\nPlease Enter String ending with '$':\t");
+	scanf("%s",str);
+	ch=str[0];
+	S();
+	if(ch=='$')
+	{
+		printf("\nSuccessful Parsing of string: %s\n",str);
+	}
+	else
+		printf("\nUnsuccessful Parsing of string: %s\n",str);
+}//main

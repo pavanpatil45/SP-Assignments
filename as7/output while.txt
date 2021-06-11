@@ -1,0 +1,13 @@
+[fedora@localhost ~]$ lex vwhile.l
+[fedora@localhost ~]$ yacc -d vwhile.y
+[fedora@localhost ~]$ cc lex.yy.c y.tab.c
+[fedora@localhost ~]$ ./a.out
+Enter the expression : while(a+2)x+3;
+L1: 
+t0 = a + 2
+t1= not t0
+if t1 goto L 0 
+t2 = x + 3
+goto L1 
+L0: 
+[fedora@localhost ~]$

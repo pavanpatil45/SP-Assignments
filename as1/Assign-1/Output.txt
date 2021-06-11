@@ -1,0 +1,1181 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New address Found 1009new value in pt:2	#2
+
+New address Found 1011
+New address Found 1012
+returned value of add -1
+New address Found 19
+New address Found 39
+New address Found 40
+New address Found 41
+New address Found 42new value in pt:3	#5
+
+New address Found 46
+New address Found 47
+Symbol 'N' has no address
+Symbol '884' has no address
+Error...Invalid symbol
+[it@localhost ~]$ 
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+
+New address Found 1000
+New address Found 1001
+New address Found 1002
+New address Found 1003
+New address Found 1004
+New address Found 1005
+New address Found 1006
+New address Found 1007
+New address Found 1008
+New address Found 1009new value in pt:2	#2
+
+New address Found 1011
+New address Found 1012
+returned value of add 1001
+New address Found 1021
+New address Found 1041
+New address Found 1042
+New address Found 1043
+New address Found 1044new value in pt:3	#5
+
+New address Found 1048
+New address Found 1049[it@localhost ~]$ 
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+
+New address Found 1000
+New address Found 1001
+New address Found 1002
+New address Found 1003
+New address Found 1004
+New address Found 1005
+New address Found 1006
+New address Found 1007
+New address Found 1008
+New address Found 1009new value in pt:2	#2
+
+New address Found 1011
+New address Found 1012
+returned value of add 1001
+New address Found 1021
+New address Found 1041
+New address Found 1042
+New address Found 1043
+New address Found 1044new value in pt:3	#5
+
+New address Found 1048
+New address Found 1049[it@localhost ~]$ 
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+
+New address Found 1000
+New address Found 1001
+New address Found 1002
+New address Found 1003
+New address Found 1004
+New address Found 1005
+New address Found 1006
+New address Found 1007
+New address Found 1008
+New address Found 1009new value in pt:2	#2
+
+New address Found 1011
+New address Found 1012
+returned value of add -1
+New address Found 19
+New address Found 39
+New address Found 40
+New address Found 41
+New address Found 42new value in pt:3	#5
+
+New address Found 46
+New address Found 47
+Symbol 'N' has no address
+Error...Invalid symbol
+[it@localhost ~]$ 
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+
+New address Found 1000
+New address Found 1001
+New address Found 1002
+New address Found 1003
+New address Found 1004
+New address Found 1005
+New address Found 1006
+New address Found 1007
+New address Found 1008
+New address Found 1009new value in pt:2	#2
+
+New address Found 1011
+New address Found 1012
+returned value of add -1
+New address Found 19
+New address Found 39
+New address Found 40
+New address Found 41
+New address Found 42
+New address Found 43new value in pt:3	#5
+
+New address Found 47
+New address Found 48[it@localhost ~]$ 
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+
+New address Found 1000
+New address Found 1001
+New address Found 1002
+New address Found 1003
+New address Found 1004
+New address Found 1005
+New address Found 1006
+New address Found 1007
+New address Found 1008
+New address Found 1009new value in pt:2	#2
+
+New address Found 1011
+New address Found 1012
+returned value of add -1
+returned value of add 1013
+New address Found 1033
+New address Found 1053
+New address Found 1054
+New address Found 1055
+New address Found 1056
+New address Found 1057new value in pt:3	#5
+
+New address Found 1061
+New address Found 1062[it@localhost ~]$ 
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+
+New address Found 1000
+New address Found 1001
+New address Found 1002
+New address Found 1003
+New address Found 1004
+New address Found 1005
+New address Found 1006
+New address Found 1007
+New address Found 1008
+New address Found 1009new value in pt:2	#2
+
+New address Found 1011
+New address Found 1012
+returned value of add 1008
+New address Found 1028
+New address Found 1048
+New address Found 1049
+New address Found 1050
+New address Found 1051
+New address Found 1052new value in pt:3	#5
+
+New address Found 1056
+New address Found 1057[it@localhost ~]$ 
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+
+New address Found 1000
+New address Found 1001
+New address Found 1002
+New address Found 1003
+New address Found 1004
+New address Found 1005
+New address Found 1006
+New address Found 1007
+New address Found 1008
+New address Found 1009new value in pt:2	#2
+
+New address Found 1011
+New address Found 1012
+returned value of add 1008
+New address Found 1028
+New address Found 1048
+New address Found 1049
+New address Found 1050
+New address Found 1051
+New address Found 1052new value in pt:3	#5
+
+New address Found 1056
+New address Found 1057[it@localhost ~]$ 
+[it@localhost ~]$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+
+New address Found 1000
+New address Found 1001
+New address Found 1002
+New address Found 1003
+New address Found 1004
+New address Found 1005
+New address Found 1006
+New address Found 1007
+New address Found 1008
+New address Found 1009
+New address Found 1011
+New address Found 1012
+New address Found 1028
+New address Found 1048
+New address Found 1049
+New address Found 1050
+New address Found 1051
+New address Found 1052
+New address Found 1056
+New address Found 1057[it@localhost ~]$ 
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+
+New address Found 1000
+New address Found 1001
+New address Found 1002
+New address Found 1003
+New address Found 1004
+New address Found 1005
+New address Found 1006
+New address Found 1007
+New address Found 1008
+New address Found 1009
+New address Found 1011
+New address Found 1012
+New address Found 1028
+New address Found 1048
+New address Found 1049
+New address Found 1050
+New address Found 1051
+New address Found 1052
+New address Found 1056
+New address Found 1057[it@localhost ~]$ 
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+[it@localhost ~]$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+[it@localhost ~]$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+[it@localhost ~]$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+[it@localhost ~]$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+[it@localhost ~]$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+[it@localhost ~]$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+[it@localhost ~]$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+[it@localhost ~]$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+[it@localhost ~]$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+
+Error...Invalid symbol
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+
+Error...Forward Reference Symbol 'TERM'
+
+[it@localhost ~]$ gcc sp-assign-1.c
+[it@localhost ~]$ ./a.out
+[it@localhost ~]$ 
+
+
+
+
+
+
+
+
+
+
+
